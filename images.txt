@@ -3,4 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-kubesphere/builder-maven:v3.2.0
+nginx:1.20.1
