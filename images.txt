@@ -3,4 +3,16 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-jenkins/jenkins
+o2cr.ai/openobserve/openobserve
+o2cr.ai/openobserve/openobserve-enterprise
+o2cr.ai/openobserve/report-server
+public.ecr.aws/docker/library/busybox
+public.ecr.aws/zinclabs/o2-sre-agent
+058694856476.dkr.ecr.us-east-2.amazonaws.com/openobserve/o2-sre-agent
+natsio/nats-box
+quay.io/minio/minio
+quay.io/minio/mc
+o2cr.ai/openobserve/zplane
+dpage/pgadmin4
+openfga/openfga
+dexidp/dex
