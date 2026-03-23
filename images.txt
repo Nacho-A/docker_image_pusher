@@ -3,15 +3,15 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-openobserve
-openobserve-enterprise
-report-server
+public.ecr.aws/zinclabs/openobserve
+public.ecr.aws/zinclabs/openobserve-enterprise
+public.ecr.aws/zinclabs/report-server
 public.ecr.aws/docker/library/busybox
 public.ecr.aws/zinclabs/o2-sre-agent
 natsio/nats-box
 quay.io/minio/minio
 quay.io/minio/mc
-zplane
+public.ecr.aws/zinclabs/zplane
 dpage/pgadmin4
 openfga/openfga
 dexidp/dex
