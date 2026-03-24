@@ -3,11 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-public.ecr.aws/zinclabs/o2-sre-agent
-natsio/nats-box
-quay.io/minio/minio
-quay.io/minio/mc
-public.ecr.aws/zinclabs/zplane
-dpage/pgadmin4
-openfga/openfga
-dexidp/dex
+rancher/rancher:v2.13.3
