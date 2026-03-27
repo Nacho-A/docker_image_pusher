@@ -3,4 +3,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-rancher/rancher-cleanup
+natsio/nats-server-config-reloader:0.19.1
+natsio/prometheus-nats-exporter:0.17.3
+natsio/nats-box:0.18.0
+nats:2.11.8-alpine
