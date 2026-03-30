@@ -3,4 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.io/nicolaka/netshoot:v0.15
+ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:0.148.0
