@@ -3,4 +3,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.io/loki-canary:3.6.7	
+docker.io/grafana/loki-canary:3.6.7	
+
