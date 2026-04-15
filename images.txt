@@ -3,4 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-quay.io/minio/mc:RELEASE.2024-11-21T17-21-54Z
+docker.io/loki-canary:3.6.7	
